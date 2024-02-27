@@ -14,4 +14,4 @@ cleaned data.dta provides cleaned data.
 
 Assignment 2 reports provide personal reports.
 
-Note: the raw data is shared by dropbox.
+Note: the raw data is shared by dropbox. The link is https://www.dropbox.com/scl/fo/txlw6dimfigttph7bgyg0/h?rlkey=5yzb47i5ij2l38x232pon7mqr&dl=0
