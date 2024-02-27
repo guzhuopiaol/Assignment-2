@@ -12,4 +12,6 @@ assignment 2 final results.xlsx provides organized summary statistics and regres
 
 cleaned data.dta provides cleaned data.
 
-Assignment 2 reports provide personal reports。
+Assignment 2 reports provide personal reports.
+
+Note: the raw data is shared by dropbox.
